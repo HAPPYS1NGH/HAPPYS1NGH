@@ -13,7 +13,7 @@
 ### Connect with me at:
 <p>
 <a href="https://linkedin.com/in/harpreet-singh-675899234"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Harpree77339811"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/HAPPYS1NGH"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 
